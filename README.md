@@ -9,4 +9,4 @@
 學校科系 | [金門大學資訊工程系](https://www.nqu.edu.tw/educsie/index.php)
 課程內容 | https://gitlab.com/ccc109/w
 筆記 | [我的筆記/4YCAaaa/wp109b/wiki](https://github.com/4YCAaaa/wp109b/wiki)
-作業 | [我的作業/Something/HomePage.html](https://4ycaaaa.github.io/wp109b/Something/HomePage.html)
+作業 | [我的作業/Something/HomePage.html](https://4ycaaaa.github.io/wp109b/Something/Something.html)
