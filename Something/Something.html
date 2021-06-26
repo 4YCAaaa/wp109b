@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -95,11 +96,12 @@ a:hover, a:active {
     
     
     <div class="row">
-  <div class="col-3 col-s-3 menu">
+  <div class="col-4 col-s-4 menu">
 <br><br><br>
-	<a href="default.asp" target="_blank" > &nbsp;About&nbsp;</a><br><br><br>
-    <a href="default.asp" target="_blank"> &emsp;Life&nbsp;</a><br><br><br>
-    <a href="Contact.html" >Contact</a>
+	  <a href="Something_About.html" > &nbsp;About&nbsp;</a><br><br><br>
+    <a href="Something_Life.html"> &emsp;Life&nbsp;</a><br><br><br>
+    <a href="Something_Contact.html" >Contact</a><br><br><br>
+    <a href="Something_Login.html" >Log Out</a>
   </div>
   
   <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous">		</script>
@@ -109,8 +111,17 @@ a:hover, a:active {
 	<i class="fab fa-github"style="font-size:20px;color:#005AB5;"></i>
 	<i class="fab fa-facebook"style="font-size:20px;color:#0000C6;"></i>
   </div>
-  
 
+  <p id="demo"></p>
+
+  <script>
+  var myVar = setInterval(myTimer, 1000);
+  
+  function myTimer() {
+    var d = new Date();
+    document.getElementById("demo").innerHTML = d.toLocaleTimeString();
+  }
+  </script>
 </div>
 
 </body>
