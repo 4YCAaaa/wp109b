@@ -5,7 +5,7 @@
 
 
 # Sourse:
-網頁模板大多參考自https://www.w3schools.com/default.asp，再更改部分程式碼與修改美編。
+網頁模板大多參考自https://www.w3schools.com/default.asp ，再更改部分程式碼與修改美編。
 Contact頁面排版理念參考自https://templated.co/p/4078153616677877。
 Life與Login頁面是基於https://blog.csdn.net/weixin_45748460/article/details/106286100?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_title-1&spm=1001.2101.3001.4242 與https://blog.csdn.net/jl244981288/article/details/47126409?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_utm_term-0&spm=1001.2101.3001.4242 的程式碼去做整體的修改，前者讓原本在按鈕邊的動畫改成在背景移動，後者只有留下背景動畫，其餘元件(包含背景動畫的位置)皆有所更改。
 進入Animals後，有使用程式碼http://www.uxys.com/html/CSS3/20141017/21427.html 做修改實現三角形排列圖片做出選單區塊，再做美工與排版。
